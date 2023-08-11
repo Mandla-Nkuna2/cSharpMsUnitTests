@@ -1,0 +1,70 @@
+# Compiled files
+bin/
+obj/
+
+# User-specific files
+.vscode/
+*.userprefs
+*.suo
+*.user
+*.sln.docstates
+
+# NuGet packages
+packages/
+
+# Visual Studio files
+.vs/
+*_i.c
+*_p.c
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+.vscodelaunch.json
+
+# Rider files
+.idea/
+
+# Resharper files
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# User-specific files from JetBrains Rider
+.rider/
+
+# User-specific files from Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code settings
+.vscode/settings.json
+
+# macOS folder attributes
+.DS_Store
+
+# Visual Studio Code workspace
+.vscode/
